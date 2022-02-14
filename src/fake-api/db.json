@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "fullName": "Daffa Muhammad Rizqi",
+      "userName": "daffiqi",
+      "email": "daffamrizqy@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "fullName": "jojon bedugul",
+      "userName": "bedugulasek",
+      "email": "bedugul@gmail.com",
+      "password": "cupang aku",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "user23",
+      "userName": "mikael",
+      "email": "user23@gmail.com",
+      "password": "password",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "cuplis komak",
+      "userName": "cuplis",
+      "email": "cuplis@mail.com",
+      "password": "123",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "Jane Doe",
+      "userName": "JaneDoe",
+      "email": "janedoe@mail.com",
+      "password": "123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "daffa",
+      "userName": "rizqi",
+      "email": "daffa@mail.com",
+      "password": "123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullName": "dono",
+      "userName": "kasino",
+      "email": "dono@mail.com",
+      "password": "donokasinoindro",
+      "role": "user",
+      "id": 7
+    }
+  ],
+  "transactions": [],
+  "products": [
+    {
+    "id": 1,
+    "productName": "Guitar Revstar",
+    "price": 6100000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_REVSTAR_1080x1080_c4f88c52ae35ff092e277b4ece30d877.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Revstar type for revving obviously",
+    "category": "electric"
+  },
+  {
+    "id": 2,
+    "productName": "Guitar Pacifica",
+    "price": 3000000,
+    "productImage": "https://id.yamaha.com/id/files/Pacifica_1080x1080_83a06c48b47ae2febf82d889070cd470.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Designed in Los Angeles",
+    "category": "electric"
+  },
+  {
+    "id": 3,
+    "productName": "Guitar RGX",
+    "price": 3150000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_RGX_1080x1080_97d0d5a61db3c6283581835986f63f94.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "For those who has Agresive playstyle",
+    "category": "electric"
+  },
+  {
+    "id": 4,
+    "productName": "Guitar PAC161",
+    "price": 13000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_PAC1611MS_1080x1080_3f4183aa692a8687c9cc5f35104f20d3.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Designed by Mike Stern",
+    "category": "electric"
+  },
+  {
+    "id": 5,
+    "productName": "Guitar L Series",
+    "price": 8000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_L_series_1080x1080_efb34e0e2c101151b21700fd69cea900.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "High-end acoustic guitar for John Mayer wannabe",
+    "category": "acoustic"
+  },
+  {
+    "id": 6,
+    "productName": "Guitar A Series",
+    "price": 6000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_A_series_1080x1080_74dc65411ff52ceba1dcd62de30315de.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Take your acoustic play to the next level",
+    "category": "acoustic"
+  },
+  {
+    "id": 7,
+    "productName": "Guitar FG / FGX",
+    "price": 2000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_FG-FGX_1080x1080_2550b1fc4d81d720fe0efa4033ed9ac5.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "For layability, tone, and quality seeker",
+    "category": "acoustic"
+  },
+  {
+    "id": 8,
+    "productName": "Guitar APX",
+    "price": 3800000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_APX_1080x1080_fb2176b0cc871df582bd2ad6c87fb07f.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Sexy and simple body for a tone at its finest",
+    "category": "acoustic"
+  },
+  {
+    "id": 9,
+    "productName": "Guitar TransAcoustic",
+    "price": 4000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_TA_series_1080x1080_2db238ecfc16112874c2f4503c370084.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Redefined experience for external amplification and effects",
+    "category": "acoustic"
+  },
+  {
+    "id": 10,
+    "productName": "Guitar JR",
+    "price": 1000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_JR_1080x1080_d089b170aabee09fe948674b19e9e960.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "For the best junior guitarist at the school",
+    "category": "acoustic"
+  },
+  {
+    "id": 11,
+    "productName": "Guitar CPX",
+    "price": 3500000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_CPX_1080x1080_df77e153a9c35610669bcb7168544fd3.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Best for stage performer and an acoustic singer",
+    "category": "acoustic"
+  },
+  {
+    "id": 12,
+    "productName": "Guitar The Silence",
+    "price": 10000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_SLG200-Series_1080x1080_e78035529c70cdfce65d84055c45e93c.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "Natural and calming tone and can be used with headphone",
+    "category": "acoustic"
+  },
+  {
+    "id": 13,
+    "productName": "Amplifier THR-II",
+    "price": 5000000,
+    "productImage": "https://id.yamaha.com/id/files/Image-Index_THR-II_1080x1080_4a4cfc9dbc0fad4a1e346ecc232ef5d7.jpg?impolicy=resize&imwid=396&imhei=396",
+    "description": "More power, more sound options, and newest wireless options",
+    "category": "accessories"
+  }
+],
+  "cart": []
+}
